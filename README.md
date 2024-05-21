@@ -4,22 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Encriptador Cífra de Cesar</title>
-    <style>
-        body {
-            background-color: #121212;
-            color: #E0E0E0;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h3 {
-            color: #BB86FC;
-        }
-        p {
-            margin: 10px 0;
-        }
-    </style>
 </head>
 <body>
     <h1>
